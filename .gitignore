@@ -1,0 +1,28 @@
+# Env / secrets
+.env
+.env.local
+*.env
+backend/.env
+frontend/.env
+firebase-credentials*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+**/firebase-service-account.json
