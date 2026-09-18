@@ -1,9 +1,3 @@
-# Env / secrets
-.env
-.env.local
-*.env
-backend/.env
-frontend/.env
 firebase-credentials*.json
 
 # Python
